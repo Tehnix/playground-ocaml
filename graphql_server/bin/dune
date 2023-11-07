@@ -1,0 +1,4 @@
+(executable
+ (public_name graphql_server)
+ (name main)
+ (libraries graphql_server))

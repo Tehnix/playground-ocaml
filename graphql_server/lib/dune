@@ -1,0 +1,3 @@
+(library
+ (name graphql_server)
+ (libraries digestif.c cohttp-lwt-unix graphql-lwt graphql-cohttp yojson))
